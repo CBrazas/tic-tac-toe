@@ -5,3 +5,6 @@ Coordinate = game.askForString(Coordinate)
 if (Coordinate == "a1") {
     game.over(true)
 }
+forever(function () {
+	
+})
